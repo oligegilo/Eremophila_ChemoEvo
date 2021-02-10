@@ -1,5 +1,5 @@
 # Additional material for the manuscript: 
-"Navigating through chemical space and evolutionary time across the Australian continent in plant genus Eremophila"
+"Navigating through chemical space and evolutionary time across the Australian continent in plant genus *Eremophila*"
 
 Preprint available on https://www.biorxiv.org/content/10.1101/2020.11.02.364471v1
 
