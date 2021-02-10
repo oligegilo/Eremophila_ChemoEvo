@@ -19,7 +19,7 @@ The datapoints are to be interpreted as follows:
 
 **Traditional use:** "0" - no documented use; "1" - use is documented
 
-**Antibacterial activity:** "0" - tested absence of activity; "1" - tested presence of activity
+**Antibacterial activity:** "0" - tested absence of activity; "1" - tested presence of activity (corresponding references are found in Table S1 of the manuscript)
 
 **Biogeographical distribution:** "0" - widespread; "1" - eremean; "2" - southwestern temperate; "3" - southeastern temperate; "5" - non Australian
 
