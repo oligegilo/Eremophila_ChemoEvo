@@ -31,3 +31,5 @@ Quality check samples (pooled sample) are in any case indicated with "QC".
 
 The file "20200222_Eremophila_ISDB.tsv" was used within the Network Annotation Propagation workflow on GNPS du achieve en enhanced chemical classification of the studied spectral dataset derived from Myoporeae species.
 
+The file "20200222_Eremophila_ISDB.txt" contains the underlying SMILES strings and compound identifiers used to establish this spectral database. Compound names of "Singab_#" relate to compounds presented in Singab et al. 2013 chemical review, whereas "KU" compounds are presented in Table S6 within the manuscript.
+
