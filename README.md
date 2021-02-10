@@ -27,3 +27,7 @@ The datapoints are to be interpreted as follows:
 
 Quality check samples (pooled sample) are in any case indicated with "QC".
 
+## In silico predicted spectral database for Eremophila related metabolites
+
+The file "20200222_Eremophila_ISDB.tsv" was used within the Network Annotation Propagation workflow on GNPS du achieve en enhanced chemical classification of the studied spectral dataset derived from Myoporeae species.
+
