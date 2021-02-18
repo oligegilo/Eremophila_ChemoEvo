@@ -25,6 +25,8 @@ The datapoints are to be interpreted as follows:
 
 **General phylogenetic clades:** "o" - outgroup; "ag" - clade A to G; "h3" - clade H3; "h10" - clade H10; "h11" - clade H11; "h12" - clade H12; "h14" - clade H14 and "h" - remaining clade H associated taxa.
 
+**Sample weight**: Weight in mg of the plant material used for extraction per sample. Spectral data was normalisation to the median of all sample weights.
+
 Quality check samples (pooled sample) are in any case indicated with "QC".
 
 ## *In silico* predicted spectral database for Eremophila related metabolites
